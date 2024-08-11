@@ -1,0 +1,9 @@
+Command 1: python -m venv myvenv
+
+Command 2: myvenv\Scripts\activate
+
+Command 3: pip install streamlit yfinance plotly prophet
+
+Command 4: streamlit run filename.py
+
+Command 5: Scripts\deactivate (or) CTRL + X
