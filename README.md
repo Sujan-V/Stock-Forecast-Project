@@ -1,5 +1,5 @@
 
-                                                                   Stock Forecast App
+                                      Stock Forecast App
 
 This application is a simple and interactive stock price forecasting tool built using Streamlit, Prophet, and yFinance.
 It allows users to select a stock from a predefined list, visualize historical data, and predict future stock prices 
